@@ -1,0 +1,30 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font: normal 16px/24px "Lucida Grande", Arial, Ubuntu, sans-serif;
+    padding: 20px 20px 0;
+}
+
+/* tabelas */
+
+table.lista {
+  border-width: 1px;
+  border-color: #666666;
+  border-collapse: collapse;
+}
+
+table.lista th {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #666666;
+  background-color: #dedede;
+}
+
+table.lista td {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #666666;
+  background-color: #ffffff;
+}
